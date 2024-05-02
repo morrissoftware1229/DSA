@@ -11,3 +11,4 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 
 ###### 20240502
 - Found a solution very quickly for Level 1 - Problem 02 (Valid Anagram) that beats 58.57% of Python3 users on time.
+- Learned how to read most optimal solutions and that the set function and counter functions are highly optimized.

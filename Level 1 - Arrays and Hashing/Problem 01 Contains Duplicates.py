@@ -55,3 +55,5 @@ unittest.main()
 # 4. Learned to run unit tests in Python3
 # 5. Difference between 'pass' and 'continue'
 # 6. Using a dictionary doesn't automatically beat 50% of users in your language
+# 7. The set function in Python is implemented with a hash table, so that solution would be O(1):
+#      'return len(nums) == len(set(nums))'

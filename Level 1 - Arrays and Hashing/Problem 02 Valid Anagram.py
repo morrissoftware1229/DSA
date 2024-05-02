@@ -43,3 +43,12 @@ unittest.main()
 # 2. Thinking about if two arrays are equal after sorting or being converted to a set seems to help
 #      with quite a few array problems. Based on binomial distribution math, it's come up twice in
 #      two questions, so it might be a very common set of methods to solve these.
+# 3. I learned to click through the solutions after a submission to see the fastest and most space
+#      efficient way to solve algorithms.
+# 4. I learned that Python has a highly efficient Counter function in the Collections module which
+#      uses more optimized C code to perform counting.
+# 5. I learned that I don't need to give conditions and return true or false based on them. I can
+#      simply say 'return sorted(s) == sorted(t)'.
+# 6. I see that someone entered a base case - if the two aren't the same length, return false. I can
+#      use this in the future to quickly solve problems under certain conditions. This should lower
+#      the actual average runtime in ms and perhaps the theta.
