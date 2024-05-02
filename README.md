@@ -8,3 +8,6 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240501
 - Completed naive approach of O(n^2) on Level 1 - Problem 01 (Contains Duplicates) and learned how to perform unit tests in Python
 - Completed solution to same problem using dictionary, but that only beats 11% of Python3 users
+
+###### 20240502
+- Found a solution very quickly for Level 1 - Problem 02 (Valid Anagram) that beats 58.57% of Python3 users on time.
