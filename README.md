@@ -12,3 +12,7 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240502
 - Found a solution very quickly for Level 1 - Problem 02 (Valid Anagram) that beats 58.57% of Python3 users on time.
 - Learned how to read most optimal solutions and that the set function and counter functions are highly optimized.
+
+###### 20240520
+- Found a solution very quickly for Level 1 - Problem 03 (Two Sum) that beats 85% of Python3 submissions on time. There were no clearly better answers.
+- I was reminded to move a little bit slower if I don't want to have to debug the code. I referenced the integer I was looping with instead of the key of a dictionary that matched the integer.
