@@ -16,3 +16,7 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240520
 - Found a solution very quickly for Level 1 - Problem 03 (Two Sum) that beats 85% of Python3 submissions on time. There were no clearly better answers.
 - I was reminded to move a little bit slower if I don't want to have to debug the code. I referenced the integer I was looping with instead of the key of a dictionary that matched the integer.
+
+###### 20240521
+- I was unable to find a solution to Level 1 - Problem 04 (Group Anagrams) within an hour, so I analyzed the best Python3 solution.
+- I learned a bit more about defaultdict and the intuition behind solving medium array and hashing problems.
