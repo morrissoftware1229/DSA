@@ -20,3 +20,4 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240521
 - I was unable to find a solution to Level 1 - Problem 04 (Group Anagrams) within an hour, so I analyzed the best Python3 solution.
 - I learned a bit more about defaultdict and the intuition behind solving medium array and hashing problems.
+- I very quickly found a solution to Level 1 - Problem 05 (Top K Frequent Elements), but I had to look up how to sort a defaultdict by values.
