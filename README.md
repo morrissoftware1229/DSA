@@ -24,3 +24,4 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 
 ###### 20240523
 - I learned a bit more about the possible answers to the Top K Frequent Elements problems, heaps, sorting algorithms, QuickSelect, and partitioning schemes by reading the editorial.
+- Thought I had a quick answer for Level 1 - Problem 06 (Encode and Decode Strings), but I was incorrect. I was trying to use an ASCII delimiter which was likely to appear in a string. I should have used a non-ASCII delimiter, chunked transfer encoding, or escape characters.
