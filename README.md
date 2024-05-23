@@ -21,3 +21,6 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 - I was unable to find a solution to Level 1 - Problem 04 (Group Anagrams) within an hour, so I analyzed the best Python3 solution.
 - I learned a bit more about defaultdict and the intuition behind solving medium array and hashing problems.
 - I very quickly found a solution to Level 1 - Problem 05 (Top K Frequent Elements), but I had to look up how to sort a defaultdict by values.
+
+###### 20240523
+- I learned a bit more about the possible answers to the Top K Frequent Elements problems, heaps, sorting algorithms, QuickSelect, and partitioning schemes by reading the editorial.
