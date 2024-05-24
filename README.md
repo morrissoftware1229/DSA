@@ -25,3 +25,7 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240523
 - I learned a bit more about the possible answers to the Top K Frequent Elements problems, heaps, sorting algorithms, QuickSelect, and partitioning schemes by reading the editorial.
 - Thought I had a quick answer for Level 1 - Problem 06 (Encode and Decode Strings), but I was incorrect. I was trying to use an ASCII delimiter which was likely to appear in a string. I should have used a non-ASCII delimiter, chunked transfer encoding, or escape characters.
+
+###### 20240524
+- Made an attempt on Level 1 - Problem 07, but I need to brush up on accessing elements in a,dictionary. The issue is probably that dictionaries are built in for Python3, so I need to learn how they're implemented in other languages to better understand them.
+- I read the editorial, and it had a very clever use of the associative property of multiplication to form an answer.
