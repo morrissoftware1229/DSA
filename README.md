@@ -29,3 +29,7 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240524
 - Made an attempt on Level 1 - Problem 07, but I need to brush up on accessing elements in a,dictionary. The issue is probably that dictionaries are built in for Python3, so I need to learn how they're implemented in other languages to better understand them.
 - I read the editorial, and it had a very clever use of the associative property of multiplication to form an answer.
+
+###### 20240525
+- Made an attempt on Level 1 - Problem 08. I still need to work on my basic data structures. I was trying to solve the problem perfectly the first time instead of finding a solution and iterating. I also didn't think to use floor division.
+- I set up a new folder to cover the basics of simple data structures. I'll be adding information soon related to lists and dictionaries.
