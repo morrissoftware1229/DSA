@@ -34,3 +34,6 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 - Made an attempt on Level 1 - Problem 08. I still need to work on my basic data structures. I was trying to solve the problem perfectly the first time instead of finding a solution and iterating. I also didn't think to use floor division.
 - I set up a new folder to cover the basics of simple data structures. I'll be adding information soon related to lists and dictionaries.
 - Worked on basic functions in lists, tuples, and dicts to help implement solutions more quickly in the future.
+
+###### 20240527
+- Complete Level 1 - Problem 09 in 40 minutes today. I still have a series of small issues, but I will work them out over time.
