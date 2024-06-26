@@ -38,3 +38,6 @@ I will be using the roadmap provided on neetcode.io/roadmap to work through some
 ###### 20240527
 - Complete Level 1 - Problem 09 in 40 minutes today. I still have a series of small issues, but I will work them out over time.
 - Completed my first stack question in about fifteen minutes, but I made three mistakes first. I need to start considering all the potential wrong answers before trying to code an answer, so basically, I need to do TDD.
+
+###### 20240626
+- Added a series of algorithms and data structures to practice over the last four weeks, trying to prepare for technical interviews and reviewing basics.
